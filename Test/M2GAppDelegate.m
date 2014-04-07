@@ -9,7 +9,10 @@
 #import "M2GAppDelegate.h"
 
 @implementation M2GAppDelegate
-
+-(IBAction)ku:(id)sender
+{
+    
+}
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.

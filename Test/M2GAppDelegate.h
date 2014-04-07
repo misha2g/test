@@ -13,4 +13,5 @@
 @property (strong, nonatomic) UIWindow *window;
 @property (nonatomic) NSString* property;
 
+-(IBAction)ku:(id)sender;
 @end
