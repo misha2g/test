@@ -11,6 +11,10 @@
 @interface M2GAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+
 @property (nonatomic) NSString* property;
+
+
+@property (weak) NSMutableString *string;
 
 @end
