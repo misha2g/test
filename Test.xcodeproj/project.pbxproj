@@ -24,6 +24,7 @@
 		7F3B7FFC18F2B3A8005C6089 /* Kije7aRiq.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7F3B7FF918F2B3A8005C6089 /* Kije7aRiq.jpeg */; };
 		7F3B7FFD18F2B3A8005C6089 /* play-titlepic-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F3B7FFA18F2B3A8005C6089 /* play-titlepic-1.jpg */; };
 		7F3B7FFE18F2B3A8005C6089 /* mobile-swatch-set-low-vflJzzcCM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F3B7FFB18F2B3A8005C6089 /* mobile-swatch-set-low-vflJzzcCM.png */; };
+		84F0C1BC18F2B4FA004A2A43 /* facebook_share.gif in Resources */ = {isa = PBXBuildFile; fileRef = 84F0C1BB18F2B4FA004A2A43 /* facebook_share.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		7F3B7FF918F2B3A8005C6089 /* Kije7aRiq.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kije7aRiq.jpeg; sourceTree = "<group>"; };
 		7F3B7FFA18F2B3A8005C6089 /* play-titlepic-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "play-titlepic-1.jpg"; sourceTree = "<group>"; };
 		7F3B7FFB18F2B3A8005C6089 /* mobile-swatch-set-low-vflJzzcCM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mobile-swatch-set-low-vflJzzcCM.png"; sourceTree = "<group>"; };
+		84F0C1BB18F2B4FA004A2A43 /* facebook_share.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = facebook_share.gif; path = ../Desktop/Table/facebook_share.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 		7F3B7FB818F2AD6A005C6089 = {
 			isa = PBXGroup;
 			children = (
+				84F0C1BB18F2B4FA004A2A43 /* facebook_share.gif */,
 				7F3B7FCA18F2AD6A005C6089 /* Test */,
 				7F3B7FE918F2AD6A005C6089 /* TestTests */,
 				7F3B7FC318F2AD6A005C6089 /* Frameworks */,
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84F0C1BC18F2B4FA004A2A43 /* facebook_share.gif in Resources */,
 				7F3B7FDD18F2AD6A005C6089 /* Images.xcassets in Resources */,
 				7F3B7FFC18F2B3A8005C6089 /* Kije7aRiq.jpeg in Resources */,
 				7F3B7FFD18F2B3A8005C6089 /* play-titlepic-1.jpg in Resources */,
@@ -477,6 +481,7 @@
 				7F3B7FF518F2AD6A005C6089 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7F3B7FF618F2AD6A005C6089 /* Build configuration list for PBXNativeTarget "TestTests" */ = {
 			isa = XCConfigurationList;
@@ -485,6 +490,7 @@
 				7F3B7FF818F2AD6A005C6089 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

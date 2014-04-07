@@ -19,6 +19,8 @@
 	<dict>
 		<key>351019AF-631F-4784-AE00-54CA13920B63</key>
 		<string>../..</string>
+		<key>870319DB-CA51-4794-AB06-C98F2FE1F443</key>
+		<string>../../../Desktop/Table</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/misha2g/test.git</string>
@@ -28,6 +30,14 @@
 	<string>351019AF-631F-4784-AE00-54CA13920B63</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>870319DB-CA51-4794-AB06-C98F2FE1F443</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Table</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
